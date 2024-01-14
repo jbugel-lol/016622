@@ -124,4 +124,4 @@
 
 7. **Access Your Proxy Data**
 
-   - The bot will provide you with either a proxy key or a configuration file.
+   - The bot will provide you with both a Cloudflare Warp license key and a WireGuard configuration file.
