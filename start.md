@@ -1,4 +1,6 @@
-# Hello, Adventurer! Welcome to 016622.xyz – Where We Embrace the Pirate Spirit Forever! 🏴‍☠️
+# Hello, Adventurer!
+
+### Welcome to 016622.xyz – Where We Embrace the Pirate Spirit Forever! 🏴‍☠️
 
 Ahoy, my friends! You've just arrived at the digital sanctuary of 016622.xyz, where we proudly declare: "Piracy 4 Ever!" Get ready for an exciting journey filled with maritime guides, hidden treasures, and tips and tricks!
 

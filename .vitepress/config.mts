@@ -15,15 +15,16 @@ export default defineConfig({
       {
         text: "Safety",
         items: [
-          { text: "Start", link: "/start" },
-          { text: "Cloudflare Proxy", link: "/cloudflare" },
+          { text: "🏁 Start", link: "/start" },
+          { text: "☁️ Cloudflare Proxy", link: "/cloudflare" },
         ],
       },
     ],
 
     socialLinks: [
       { icon: "github", link: "https://github.com/jbugel-lol/016622" },
-      { icon: "discord", link: "https://discord.com" },
+      { icon: "discord", link: "https://discord.gg/Stz6y6NgNg" },
     ],
   },
+  cleanUrls: true,
 });
