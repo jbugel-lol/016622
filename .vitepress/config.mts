@@ -8,21 +8,22 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "Examples", link: "/markdown-examples" },
+      { text: "Start here", link: "/start" },
     ],
 
     sidebar: [
       {
-        text: "Examples",
+        text: "Safety",
         items: [
-          { text: "Markdown Examples", link: "/markdown-examples" },
-          { text: "Runtime API Examples", link: "/api-examples" },
+          { text: "Start", link: "/start" },
+          { text: "Cloudflare Proxy", link: "/cloudflare" },
         ],
       },
     ],
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
+      { icon: "github", link: "https://github.com/jbugel-lol/016622" },
+      { icon: "discord", link: "https://discord.com" },
     ],
   },
 });
