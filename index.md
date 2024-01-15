@@ -9,7 +9,7 @@ hero:
 
   actions:
     - theme: brand
-      text: Start here :D
+      text: Start here
       link: /start
 
 features:
