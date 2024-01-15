@@ -44,9 +44,9 @@
    - Open your Cloudflare Warp app.
    - Go to the Account settings section.
 
-9. **Copy your account key**
+9. **Copy your license key**
 
-   - Copy the account key provided in your Warp account settings.
+   - Copy the license key provided in your Warp account settings.
 
 10. **Update the account key in "wgcf-account.toml"**
 
