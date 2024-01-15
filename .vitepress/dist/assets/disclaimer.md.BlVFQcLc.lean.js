@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.WKpLpN6N.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"disclaimer.md","filePath":"disclaimer.md"}'),r={name:"disclaimer.md"};function s(c,i,o,n,d,m){return a(),t("div")}const _=e(r,[["render",s]]);export{p as __pageData,_ as default};

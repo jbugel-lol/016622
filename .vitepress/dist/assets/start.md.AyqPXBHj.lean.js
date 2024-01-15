@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,U as a}from"./chunks/framework.WKpLpN6N.js";const y=JSON.parse('{"title":"Hello, Adventurer!","description":"","frontmatter":{},"headers":[],"relativePath":"start.md","filePath":"start.md"}'),o={name:"start.md"},i=a("",17),n=[i];function s(h,u,l,d,c,p){return r(),t("div",null,n)}const w=e(o,[["render",s]]);export{y as __pageData,w as default};
