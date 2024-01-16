@@ -32,7 +32,7 @@ export default defineConfig({
 
     socialLinks: [
       { icon: "github", link: "https://github.com/jbugel-lol/016622" },
-      { icon: "discord", link: "https://discord.gg/Stz6y6NgNg" },
+      { icon: "discord", link: "https://discord.gg/jqruB4FJJ5" },
     ],
   },
   cleanUrls: true,

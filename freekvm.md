@@ -2,7 +2,7 @@
 
 Please note: A valid credit or debit card is required to create an Oracle account; BINs or virtual cards will not work.
 
-Guide by cevoj35548. Based on this tutorial.
+Guide by cevoj35548. Based on [this](https://rentry.co/oraclevps) tutorial.
 
 ## Creating the Server
 
