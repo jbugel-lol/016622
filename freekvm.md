@@ -83,7 +83,7 @@ To use it as a portable desktop (_install a DE_), please continue:
 
 ### Setting up RDP
 
-20. Open **Remote Desktop Connection** in Windows. Click **Show Options**. In the _Computer_ field, enter the _Private IP address_ of your instance. In the _User name_ field, enter **ubuntu**. Check the **Allow me to save credentials** box.
+20. Open **Remote Desktop Connection** in Windows. Click **Show Opti**ons. In the _Computer_ field, enter the _Private IP address_ of your instance. In the _User name_ field, enter **ubuntu**. Check the **Allow me to save credentials** box.
 
 21. Go to the _Local Resources_ tab. Under _Local devices and resources_, ensure only **Clipboard** is checked, and **Printers** is unchecked.
 
