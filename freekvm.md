@@ -91,6 +91,4 @@ _Change the number of colors that XRDP has to transmit:_
 
 You can now access your VPS from anywhere in the world using Remote Desktop Connection. Optionally, you can set up X11 Forwarding by following the tutorial [here](https://www.youtube.com/watch?v=FlHVuA_98SA).
 
-To monitor the performance of the Ubuntu instance, you can use a graphical performance monitor like St
-
-acer, which will display the number of CPUs, amount of memory, and available disk storage.
+To monitor the performance of the Ubuntu instance, you can use a graphical performance monitor like Stacer, which will display the number of CPUs, amount of memory, and available disk storage.
