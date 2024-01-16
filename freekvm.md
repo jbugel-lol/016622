@@ -89,7 +89,7 @@ _Change the number of colors that XRDP has to transmit:_
 
 28. Open Stacer to check CPU Cores (4), Memory (23.4 GiB), and Disk size (193.6 GiB).
 
-You can now access your VPS from anywhere in the world using Remote Desktop Connection. Optionally, you can set up X11 Forwarding by following the tutorial [here](insert_link_here).
+You can now access your VPS from anywhere in the world using Remote Desktop Connection. Optionally, you can set up X11 Forwarding by following the tutorial [here](https://www.youtube.com/watch?v=FlHVuA_98SA).
 
 To monitor the performance of the Ubuntu instance, you can use a graphical performance monitor like St
 
