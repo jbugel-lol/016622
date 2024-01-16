@@ -19,6 +19,15 @@ export default defineConfig({
           { text: "☁️ Cloudflare Proxy", link: "/cloudflare" },
         ],
       },
+      {
+        text: "Useful",
+        items: [
+          {
+            text: "⌨️ Free KVM",
+            link: "/freekvm",
+          },
+        ],
+      },
     ],
 
     socialLinks: [
