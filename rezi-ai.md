@@ -6,7 +6,7 @@
 
 1. **Create an Account:** Start by visiting [Rezi.AI](https://www.rezi.ai/) and create an account.
 
-2. **Access AI Credits:** Once you're logged in, locate the left sidebar and click on "AI Credits." Then, select "Coupon / Redemtion Code".
+2. **Access AI Credits:** Once you're logged in, locate the left sidebar and click on "AI Credits.".
 
 3. **Redeem a Coupon Code:** To proceed, click on "Coupon / Redemption Code," and enter the following code: `thanksrezi`
 
