@@ -23,8 +23,28 @@ export default defineConfig({
         text: "Useful",
         items: [
           {
+            text: "🆓 Trials",
+            link: "/trials",
+          },
+          {
             text: "⌨️ Free KVM",
             link: "/freekvm",
+          },
+          {
+            text: "⬇️ JDownloader2",
+            link: "/jdownloader2",
+          },
+          {
+            text: "📄 PDF",
+            link: "/pdf",
+          },
+          {
+            text: "🤖 ReziAI",
+            link: "/rezi-ai",
+          },
+          {
+            text: "🤖 MerlinAI",
+            link: "/merlin-ai",
           },
         ],
       },
