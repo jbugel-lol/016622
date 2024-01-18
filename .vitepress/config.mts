@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "016622.xyz",
-  description: "Guides for everything related to sailing the seas",
+  description: "Guides for everything",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
