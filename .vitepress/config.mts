@@ -7,7 +7,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: "Home", link: "/guides/" },
+      { text: "Home", link: "/" },
       { text: "Start here", link: "/guides/start" },
     ],
 

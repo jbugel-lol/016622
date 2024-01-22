@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: Start here
-      link: /start
+      link: /guides/start
 
 features:
   - title: Guides
