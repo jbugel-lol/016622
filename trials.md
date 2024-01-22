@@ -6,6 +6,8 @@ Using E-Mail address aliases is a smart way to manage free trials effectively. I
 
 To create a new E-Mail address alias, simply append `+[xyz]` before the `@` symbol. For instance, you can use an alias like `mail+1@gmail.com` when signing up for a new trial.
 
+You can also use online tools like the [Gmail Generator website](https://gmail-generator.cybar.xyz/) to simplify the process of generating these aliases.
+
 ### 2. Creating Virtual Cards
 
 While you can use a real credit or debit card for free trial sign-ups, there's a risk of forgetting to cancel subscriptions before the trial period ends, potentially resulting in unwanted charges. Additionally, some services may not allow you to use the same card for multiple free trials. To avoid these issues, consider using virtual debit cards.
