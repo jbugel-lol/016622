@@ -2,6 +2,8 @@
 
 ::: warning Disclaimer
 This is only a rewrite, so if things change, this might be outdated. Here is the [link](https://rentry.co/4sx64) to the original guide.
+
+Also this KVM doesnt run 24/7
 :::
 
 ## Creating the Server

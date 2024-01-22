@@ -46,6 +46,10 @@ export default defineConfig({
             text: "🤖 MerlinAI",
             link: "/merlin-ai",
           },
+          {
+            text: "🔽IDM",
+            link: "/idm",
+          },
         ],
       },
     ],
