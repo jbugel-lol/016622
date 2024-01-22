@@ -100,15 +100,13 @@
 
 2. **Message the Warp Plus Proxy Bot**
 
-    - Visit [Warp Plus Proxy Bot](https://t.me/generatewarpplusbot) on Telegram.
+   - Visit [Warp Plus Proxy Bot](https://t.me/generatewarpplusbot) on Telegram.
 
 3. **Generate a Warp Plus Proxy**
 
    - Send the command `/generate` to the bot.
 
-3.1 **Register for Imo App**
-
-   - Unfortunately, you will need to register for the "Imo" app at this point. You can delete it after registration if you prefer.
+   - _Register for Imo App:_ Unfortunately, you will need to register for the "Imo" app at this point. You can delete it after registration if you prefer.
 
 4. **Generate Proxy (Again)**
 
