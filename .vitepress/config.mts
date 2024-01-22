@@ -1,11 +1,20 @@
 import { defineConfig } from "vitepress";
+import { meta } from "./const";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "016622.xyz",
-  description: "Guides for everything",
+  title: meta.name,
+  description: meta.description,
+  titleTemplate: ":title〣016622",
+  lang: "en-US",
+  lastUpdated: true,
+  cleanUrls: true,
+  appearance: "dark",
+  ignoreDeadLinks: true,
+  sitemap: {
+    hostname: meta.hostname,
+  },
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
       { text: "Start here", link: "/guides/start" },
@@ -59,5 +68,4 @@ export default defineConfig({
       { icon: "discord", link: "https://discord.gg/jqruB4FJJ5" },
     ],
   },
-  cleanUrls: true,
 });
