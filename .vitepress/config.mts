@@ -8,15 +8,15 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "Start here", link: "/start" },
+      { text: "Start here", link: "/guides/start" },
     ],
 
     sidebar: [
       {
         text: "Safety",
         items: [
-          { text: "🏁 Start", link: "/start" },
-          { text: "☁️ Cloudflare Proxy", link: "/cloudflare" },
+          { text: "🏁 Start", link: "/guides/start" },
+          { text: "☁️ Cloudflare Proxy", link: "/guides/cloudflare" },
         ],
       },
       {
@@ -24,31 +24,31 @@ export default defineConfig({
         items: [
           {
             text: "🆓 Trials",
-            link: "/trials",
+            link: "/guides/trials",
           },
           {
             text: "⌨️ Free KVM",
-            link: "/freekvm",
+            link: "/guides/freekvm",
           },
           {
             text: "⬇️ JDownloader2",
-            link: "/jdownloader2",
+            link: "/guides/jdownloader2",
           },
           {
             text: "📄 PDF",
-            link: "/pdf",
+            link: "/guides/pdf",
           },
           {
             text: "🤖 ReziAI",
-            link: "/rezi-ai",
+            link: "/guides/rezi-ai",
           },
           {
             text: "🤖 MerlinAI",
-            link: "/merlin-ai",
+            link: "/guides/merlin-ai",
           },
           {
             text: "🔽IDM",
-            link: "/idm",
+            link: "/guides/idm",
           },
         ],
       },
