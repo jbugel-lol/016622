@@ -1,34 +1,23 @@
-# Hello, Adventurer!
+# Welcome to GFE
 
-### Welcome to 016622.xyz – Where We Embrace the Pirate Spirit Forever! 🏴‍☠️
+## How to Connect Your qBittorrent Client to a VPN/Proxy
 
-Ahoy, my friends! You've just arrived at the digital sanctuary of 016622.xyz, where we proudly declare: "Piracy 4 Ever!" Get ready for an exciting journey filled with maritime guides, hidden treasures, and tips and tricks!
+1. Click on the settings icon
+   ![Step 1: Click on the settings icon](https://lookimg.com/images/2024/01/25/QLIk2U.png)
 
-## What Awaits You
+2. Choose "Advanced" from the menu
+   ![Step 2: Select "Advanced](https://lookimg.com/images/2024/01/25/QLIoYn.png)
 
-🗺️ **Navigational Charts:** Our comprehensive guides will help you navigate through challenging waters, assisting you in plotting your course to success, whether it's treasure hunting or navigating the digital world.
+3. In the "Network interface" settings, find your VPN connection, select it, and save your changes.
+   ![Step 3: Locate your VPN in the Network Interface settings](https://lookimg.com/images/2024/01/25/QLIunq.png)
 
-🏴‍☠️ **Pirate's Code:** Discover the timeless rules of pirate etiquette, maritime traditions, and the secrets that keep our ship sailing smoothly!
+4. You're all set! Your qBittorrent client will now only download and upload data through your VPN or proxy connection, ensuring your privacy and security while torrenting.
 
-🔍 **Hidden Treasures:** Find valuable tips, tricks, and shortcuts that will make your pirate life more enjoyable and efficient!
+## Privacy when browsing the web
 
-## Get in Touch
+1. Download [Firefox](https://www.mozilla.org/en-US/firefox/new/)/[Librewolf (Privacy fork)](https://librewolf.net/installation/)
+2. Install uBlock Origin (when not already done via Librewolf)
+3. Install prefered [filterlists](https://github.com/yokoffing/filterlists)
+4. Check out [this](https://fmhy.pages.dev/internet-tools#browser-extensions) wiki section, maybe you find some other good extension
 
-Whether you are an experienced mariner or a curious newcomer, our crew is here to help you on your quest for knowledge and adventure. Feel free to reach out with any questions or ideas you may have.
-
-So, my friend, hoist the anchor and embark on a journey with us at 016622.xyz, where "Piracy 4 Ever" is our motto! It's a voyage filled with guides, treasures, and secrets that will make your digital endeavors truly legendary! 🌊⚓️
-
-**Website Disclaimer:**
-
-Dear Adventurers,
-
-If you encounter a Cloudflare error while visiting our website, it may be due to ongoing updates and improvements. As we continuously enhance the 016622.xyz experience with new content and features, occasional hiccups may occur during the building process.
-
-In such cases, we recommend refreshing your page a few times, as this often resolves the issue. Our crew is hard at work behind the scenes, and your patience is greatly appreciated.
-
-Please note that 016622.xyz is a website dedicated to fun and entertainment, and we do not endorse or promote any illegal activities. Our content is meant for enjoyment and exploration within the realm of digital adventures.
-
-Thank you for setting sail with us, and we hope your journey on 016622.xyz is filled with excitement, knowledge, and memorable experiences!
-
-Fair winds and following seas,
-The 016622.xyz Crew 🏴‍☠️
+(🚧This section is W.I.P🚧)
