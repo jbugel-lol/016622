@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "PFV - Piracy 4 Ever Guide - 016622.xyz"
+  name: "GFE - Guides for everyone - 016622.xyz"
   text: "Dive into the world of digital freedom"
   tagline: "Sailing the Digital Tides of Piracy"
 
