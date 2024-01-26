@@ -1,7 +1,5 @@
 # Welcome to GFE
 
-# (🚧This section is W.I.P🚧)
-
 ## How to Connect Your qBittorrent Client to a VPN/Proxy
 
 1. Click on the settings icon
@@ -51,5 +49,3 @@
 3. Install prefered [filterlists](https://github.com/yokoffing/filterlists)
 4. Check out [this](https://fmhy.pages.dev/internet-tools#browser-extensions) wiki section, maybe you find some other good extension
 5. If you want to hide you'r IP-Adress check out [this](https://016622.xyz/guides/cloudflare#unlimited-proxy-data) guide.
-
-(🚧This section is W.I.P🚧)
