@@ -1,5 +1,7 @@
 # Welcome to PFV
 
+# (🚧This section is W.I.P🚧)
+
 ## How to Connect Your qBittorrent Client to a VPN/Proxy
 
 1. Click on the settings icon
@@ -12,6 +14,12 @@
    ![Step 3: Locate your VPN in the Network Interface settings](https://lookimg.com/images/2024/01/25/QLIunq.png)
 
 4. You're all set! Your qBittorrent client will now only download and upload data through your VPN or proxy connection, ensuring your privacy and security while torrenting.
+
+### Bonus: Additional Trackers
+
+1. Go to the [GitHub](https://github.com/ngosang/trackerslist#lists) and select the list you want
+
+2. (more stepa getting added when I am home)
 
 ## Privacy when browsing the web
 
