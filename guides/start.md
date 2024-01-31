@@ -42,10 +42,16 @@
 10. Tick the "Automatically..." setting so it enabled and paste in it the content (Note: This is useless on private trackers)
     ![adding_trackers](https://lookimg.com/images/2024/01/26/QLJd78.png)
 
+11. If you need a free proxy to enhance your privacy further, check out [this guide on obtaining a free proxy](/guides/cloudflare#unlimited-proxy-data).
+
 ## Privacy when browsing the web
 
 1. Download [Firefox](https://www.mozilla.org/en-US/firefox/new/)/[Librewolf (Privacy fork)](https://librewolf.net/installation/)
+
 2. Install uBlock Origin (when not already done via Librewolf)
+
 3. Install prefered [filterlists](https://github.com/yokoffing/filterlists)
+
 4. Check out [this](https://fmhy.pages.dev/internet-tools#browser-extensions) wiki section, maybe you find some other good extension
-5. If you want to hide you'r IP-Adress check out [this](https://016622.xyz/guides/cloudflare#unlimited-proxy-data) guide.
+
+5. If you want to hide you'r IP-Adress check out [this](/guides/cloudflare#unlimited-proxy-data) guide.
