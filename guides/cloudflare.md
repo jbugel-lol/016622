@@ -108,9 +108,9 @@
 
 4. **Register and Join the WarpPlus Channel on Imo App**:
 
-- Download and register on the Imo app.
-- Join the channels as advertised by the bot.
-- _Optional:_ Uninstall the Imo app after completing this step.
+   - Download and register on the Imo app.
+   - Join the channels as advertised by the bot.
+   - _Optional:_ Uninstall the Imo app after completing this step.
 
 5. **Generate Proxy (Again)**
 
