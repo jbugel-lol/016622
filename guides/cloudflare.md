@@ -106,20 +106,24 @@
 
    - Send the command `/generate` to the bot.
 
-   - _Register for Imo App:_ Unfortunately, you will need to register for the "Imo" app at this point. You can delete it after registration if you prefer.
+4. **Register and Join the WarpPlus Channel on Imo App**:
 
-4. **Generate Proxy (Again)**
+- Download and register on the Imo app.
+- Join the channels as advertised by the bot.
+- _Optional:_ Uninstall the Imo app after completing this step.
+
+5. **Generate Proxy (Again)**
 
    - Run `/generate` once more through the bot.
 
-5. **Complete Captcha Verification**
+6. **Complete Captcha Verification**
 
    - The bot will prompt you with a captcha, typically a simple math question.
 
-6. **Generate Proxy with Solution**
+7. **Generate Proxy with Solution**
 
    - Run `/generate {solution}`, where `{solution}` is your answer to the captcha question.
 
-7. **Access Your Proxy Data**
+8. **Access Your Proxy Data**
 
    - The bot will provide you with both a Cloudflare Warp license key and a WireGuard configuration file.
